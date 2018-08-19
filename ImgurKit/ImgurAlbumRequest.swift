@@ -1,6 +1,6 @@
 //
 //  ImgurAlbumRequest.swift
-//  Beam
+//  powermobile
 //
 //  Created by Powermobile on 31-03-16.
 //  Copyright © 2016 Powermobile. All rights reserved.
